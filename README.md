@@ -1,0 +1,1 @@
+Extract the file and use a kaggle dataset. Then run the code and check for column name changes (if required because kaggle only has one dataset of breast cancer which is mostly downloaded by everyone) and enjoy the model.
